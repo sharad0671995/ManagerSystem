@@ -1,0 +1,14 @@
+E:\SK\EducationSystem.Entity\bin\Debug\net8.0\EducationSystem.Entity.deps.json
+E:\SK\EducationSystem.Entity\bin\Debug\net8.0\EducationSystem.Entity.runtimeconfig.json
+E:\SK\EducationSystem.Entity\bin\Debug\net8.0\EducationSystem.Entity.dll
+E:\SK\EducationSystem.Entity\bin\Debug\net8.0\EducationSystem.Entity.pdb
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.csproj.AssemblyReference.cache
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.AssemblyInfoInputs.cache
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.AssemblyInfo.cs
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.csproj.CoreCompileInputs.cache
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.dll
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\refint\EducationSystem.Entity.dll
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.pdb
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\EducationSystem.Entity.genruntimeconfig.cache
+E:\SK\EducationSystem.Entity\obj\Debug\net8.0\ref\EducationSystem.Entity.dll
